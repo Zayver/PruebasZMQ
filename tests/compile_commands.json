@@ -1,0 +1,7 @@
+[
+    {
+      "directory": "/home/santiago/Documentos/CODE/C_C++/distribuidos/tests",
+      "command": "/usr/bin/c++ -Wall -Wextra -Wpedantic -std=gnu++20 -o logger -c logger.cpp",
+      "file": "/home/santiago/Documentos/CODE/C_C++/distribuidos/load_balancer/src/load_balancer.cpp"
+    }
+    ]
